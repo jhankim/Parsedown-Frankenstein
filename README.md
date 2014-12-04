@@ -1,0 +1,3 @@
+# Parsedown Frankenstein
+
+Using PHP to build a file navigator + output console & using Ruby Redcarpet to parse the markdown...
